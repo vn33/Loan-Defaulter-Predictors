@@ -31,4 +31,5 @@ Place the dataset in the data/ directory.
 Train the Model:
 
 ## Run the Jupyter notebook loan_defaulters_classifier.ipynb to train the model.
+For better visualization, i recommend to run the notebook in JUPYTER NOTEBOOK
 Follow the instructions in the notebook to preprocess data, perform detailed feature engineering, explore the data, train the model, and evaluate its performance.
